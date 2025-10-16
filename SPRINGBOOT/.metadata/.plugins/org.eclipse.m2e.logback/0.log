@@ -1,0 +1,220 @@
+2025-10-16 20:25:52,050 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-10-16 20:29:36,313 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:PatientRecord:0.0.1-SNAPSHOT @ C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\pom.xml.
+2025-10-16 20:29:40,758 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PatientRecord/src/main/java
+2025-10-16 20:29:40,763 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PatientRecord/src/main/resources
+2025-10-16 20:29:40,777 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PatientRecord/src/main/resources
+2025-10-16 20:29:40,786 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PatientRecord/src/test/java
+2025-10-16 20:29:40,788 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PatientRecord/src/test/resources
+2025-10-16 20:29:52,553 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 22 sec
+2025-10-16 20:29:52,562 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-10-16 20:29:53,772 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:PatientRecord:0.0.1-SNAPSHOT @ C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\pom.xml.
+2025-10-16 20:29:55,873 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PatientRecord/src/main/java
+2025-10-16 20:29:55,876 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PatientRecord/src/main/resources
+2025-10-16 20:29:55,880 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PatientRecord/src/main/resources
+2025-10-16 20:29:55,881 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PatientRecord/src/test/java
+2025-10-16 20:29:55,883 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PatientRecord/src/test/resources
+2025-10-16 20:30:01,205 [Worker-16: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for PatientRecord
+2025-10-16 20:30:01,317 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 3.00 sec, update config takes 3.00 sec 
+2025-10-16 20:30:04,011 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 20:30:04,103 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:30:04,131 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 20:30:04,135 [Worker-16: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of PatientRecord
+2025-10-16 20:30:04,139 [Worker-16: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for PatientRecord
+2025-10-16 20:38:54,795 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-10-16 20:38:55,856 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:PatientRecord:0.0.1-SNAPSHOT @ C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\pom.xml.
+2025-10-16 20:38:57,096 [Worker-29: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PatientRecord/src/main/java
+2025-10-16 20:38:57,098 [Worker-29: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PatientRecord/src/main/resources
+2025-10-16 20:38:57,100 [Worker-29: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PatientRecord/src/main/resources
+2025-10-16 20:38:57,100 [Worker-29: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PatientRecord/src/test/java
+2025-10-16 20:38:57,102 [Worker-29: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PatientRecord/src/test/resources
+2025-10-16 20:38:58,079 [Worker-29: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for PatientRecord
+2025-10-16 20:38:58,114 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 1.00 sec 
+2025-10-16 20:38:58,621 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 20:38:58,664 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:38:58,673 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 20:38:58,675 [Worker-27: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of PatientRecord
+2025-10-16 20:38:58,675 [Worker-27: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for PatientRecord
+2025-10-16 20:41:17,464 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 20:41:17,510 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:41:17,526 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 20:44:31,380 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 20:44:31,390 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:44:31,396 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 20:46:34,420 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 20:46:34,429 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:46:34,435 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 20:47:09,061 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 20:47:09,066 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:47:09,070 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 20:49:17,264 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 20:49:17,283 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:49:17,295 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 20:50:06,984 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 20:50:07,004 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:50:07,020 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 20:52:31,339 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 20:52:31,355 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:52:31,366 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 20:54:30,394 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 20:54:30,404 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:54:30,412 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 20:56:31,944 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 20:56:31,961 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:56:31,973 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 20:57:06,369 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 20:57:06,396 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:57:06,404 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 20:57:18,284 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 20:57:18,292 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:57:18,302 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 20:59:00,101 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 20:59:00,114 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:59:00,122 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 21:00:31,572 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:PatientRecord:0.0.1-SNAPSHOT @ C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\pom.xml.
+2025-10-16 21:00:35,044 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 21:00:35,048 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 21:00:35,088 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 21:00:35,630 [Worker-40: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of PatientRecord
+2025-10-16 21:00:35,630 [Worker-40: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for PatientRecord
+2025-10-16 21:00:37,246 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 21:00:37,279 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 21:00:37,288 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 21:00:40,505 [Worker-47: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-10-16 21:00:41,573 [Worker-47: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:PatientRecord:0.0.1-SNAPSHOT @ C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\pom.xml.
+2025-10-16 21:00:43,579 [Worker-47: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PatientRecord/src/main/java
+2025-10-16 21:00:43,581 [Worker-47: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PatientRecord/src/main/resources
+2025-10-16 21:00:43,583 [Worker-47: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PatientRecord/src/main/resources
+2025-10-16 21:00:43,584 [Worker-47: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PatientRecord/src/test/java
+2025-10-16 21:00:43,587 [Worker-47: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PatientRecord/src/test/resources
+2025-10-16 21:00:46,206 [Worker-47: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for PatientRecord
+2025-10-16 21:00:46,288 [Worker-47: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 2.00 sec 
+2025-10-16 21:00:47,165 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 21:00:47,204 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 21:00:47,218 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 21:00:47,220 [Worker-47: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of PatientRecord
+2025-10-16 21:00:47,220 [Worker-47: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for PatientRecord
+2025-10-16 21:05:10,029 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 21:05:10,046 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 21:05:10,053 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 21:11:55,460 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 21:11:55,479 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 21:11:55,488 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 21:12:50,854 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 21:12:50,861 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 21:12:50,864 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 21:14:06,927 [Worker-56: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:PatientRecord:0.0.1-SNAPSHOT @ C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\pom.xml.
+2025-10-16 21:14:09,020 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 21:14:09,022 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 21:14:09,031 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 21:14:09,032 [Worker-56: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of PatientRecord
+2025-10-16 21:14:09,032 [Worker-56: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for PatientRecord
+2025-10-16 21:14:25,830 [Worker-57: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-10-16 21:14:26,209 [Worker-57: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:PatientRecord:0.0.1-SNAPSHOT @ C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\pom.xml.
+2025-10-16 21:14:26,878 [Worker-57: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PatientRecord/src/main/java
+2025-10-16 21:14:26,879 [Worker-57: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PatientRecord/src/main/resources
+2025-10-16 21:14:26,880 [Worker-57: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PatientRecord/src/main/resources
+2025-10-16 21:14:26,880 [Worker-57: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PatientRecord/src/test/java
+2025-10-16 21:14:26,881 [Worker-57: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PatientRecord/src/test/resources
+2025-10-16 21:14:28,883 [Worker-57: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for PatientRecord
+2025-10-16 21:14:28,960 [Worker-57: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 1.00 sec 
+2025-10-16 21:14:29,678 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 21:14:29,717 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 21:14:29,726 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 21:14:29,726 [Worker-58: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of PatientRecord
+2025-10-16 21:14:29,726 [Worker-58: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for PatientRecord
+2025-10-16 21:17:48,058 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 21:17:48,064 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 21:17:48,067 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 21:18:07,499 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 21:18:07,502 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 21:18:07,508 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 21:19:03,031 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 21:19:03,038 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 21:19:03,041 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 22:06:46,039 [Worker-69: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:PatientRecord:0.0.1-SNAPSHOT @ C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\pom.xml.
+2025-10-16 22:06:48,144 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:06:48,148 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:06:48,160 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 22:06:48,161 [Worker-69: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of PatientRecord
+2025-10-16 22:06:48,162 [Worker-69: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for PatientRecord
+2025-10-16 22:06:49,846 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 22:06:49,884 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:06:49,892 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 22:07:52,104 [Worker-74: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:PatientRecord:0.0.1-SNAPSHOT @ C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\pom.xml.
+2025-10-16 22:07:54,019 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:07:54,023 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:07:54,034 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 22:07:54,035 [Worker-74: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of PatientRecord
+2025-10-16 22:07:54,035 [Worker-74: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for PatientRecord
+2025-10-16 22:10:43,930 [Worker-71: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:PatientRecord:0.0.1-SNAPSHOT @ C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\pom.xml.
+2025-10-16 22:10:46,677 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:10:46,682 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:10:46,693 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 22:10:46,694 [Worker-71: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of PatientRecord
+2025-10-16 22:10:46,694 [Worker-71: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for PatientRecord
+2025-10-16 22:10:48,550 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 22:10:48,589 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:10:48,597 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 22:11:02,339 [Worker-76: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-10-16 22:11:03,521 [Worker-76: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:PatientRecord:0.0.1-SNAPSHOT @ C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\pom.xml.
+2025-10-16 22:11:05,782 [Worker-76: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PatientRecord/src/main/java
+2025-10-16 22:11:05,784 [Worker-76: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PatientRecord/src/main/resources
+2025-10-16 22:11:05,787 [Worker-76: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PatientRecord/src/main/resources
+2025-10-16 22:11:05,788 [Worker-76: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PatientRecord/src/test/java
+2025-10-16 22:11:05,792 [Worker-76: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PatientRecord/src/test/resources
+2025-10-16 22:11:09,946 [Worker-76: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for PatientRecord
+2025-10-16 22:11:10,041 [Worker-76: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 3.00 sec, update config takes 4.00 sec 
+2025-10-16 22:11:10,817 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 22:11:10,897 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:11:10,910 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 22:11:10,911 [Worker-76: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of PatientRecord
+2025-10-16 22:11:10,911 [Worker-76: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for PatientRecord
+2025-10-16 22:26:38,631 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-10-16 22:26:58,409 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 22:26:58,479 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:26:58,494 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 22:27:29,886 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 22:27:29,904 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:27:29,917 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 22:28:54,814 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 22:28:54,840 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:28:54,853 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 22:29:09,282 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 22:29:09,305 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:29:09,320 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 22:29:37,765 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 22:29:37,781 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:29:37,794 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 22:30:16,003 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 22:30:16,024 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:30:16,036 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 22:30:31,058 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 22:30:31,108 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:30:31,121 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 22:30:53,187 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 22:30:53,199 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:30:53,212 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 22:32:19,665 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 22:32:19,681 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:32:19,693 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 22:32:42,404 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 22:32:42,420 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:32:42,430 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 22:34:09,048 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 22:34:09,062 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:34:09,074 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 22:35:24,924 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 22:35:24,945 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:35:24,959 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 22:35:51,545 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 22:35:51,562 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:35:51,572 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 22:36:10,917 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 22:36:10,940 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:36:10,954 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 22:36:42,304 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 22:36:42,317 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:36:42,330 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
+2025-10-16 22:36:54,973 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 22:36:54,986 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:36:54,997 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JJVEERA\Desktop\practice\Jenkins-FULLSTACK-PRAC\SPRINGBOOT\PatientRecord\src\test\resources
